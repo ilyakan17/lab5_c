@@ -1,3 +1,3 @@
 For second task:
-gcc main.c stack.c buffer.c -o calcnotwind.exe
-calcnotwind.exe
+1) gcc main.c stack.c buffer.c -o calcnotwind.exe
+2) calcnotwind.exe
